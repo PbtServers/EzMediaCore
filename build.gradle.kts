@@ -67,7 +67,7 @@ subprojects {
             "https://repo.codemc.org/repository/maven-public/",
             "https://m2.dv8tion.net/releases/",
             "https://repo.vshnv.tech/releases/",
-            "https://repo.mattstudios.me/artifactory/public/",
+            "https://maven.elmakers.com/repository/",
             "https://pulsebeat02.jfrog.io/artifactory/minecraftmedialibrary/"
         ).forEach {
             maven(it)
